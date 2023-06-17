@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="add_button">Tambah Catatan</string>
+    <string name="search_button">Cari Catatan</string>
+    <string name="sort_actions">Urutkan Catatan</string>
+    <string name="delete_all_button">Hapus Semua</string>
+    <string name="app_title">Daftar Catatan</string>
+    <string name="close_icon">Tutup pencarian</string>
+    <string name="empty_content_text">Belum ada catatan di sini ...</string>
+    <string name="empty_content">Empty Content</string>
+    <string name="add_task_title">Buat Catatan</string>
+    <string name="back_arrow_icon">Back Arrow Icon</string>
+    <string name="check_icon">Simpan catatan</string>
+    <string name="update_task_title">Ubah Catatan</string>
+    <string name="delete_action">Hapus Catatan</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_arrow_icon">Drop down arrow icon</string>
+    <string name="label_title">Title</string>
+    <string name="label_description">Description</string>
+    <string name="confirm_yes">YA</string>
+    <string name="confirm_no">BATALKAN</string>
+    <string name="delete_task">Hapus \"%1$s\"</string>
+    <string name="delete_task_confirmation">Apakah yakin catatan: \"%1$s\" akan dihapus?</string>
+    <string name="delete_all_tasks">Hapus semua catatan?</string>
+    <string name="delete_all_tasks_confirmation">Apakah anda yakin untuk menghapus semua catatan yang ada?</string>
+</resources>
