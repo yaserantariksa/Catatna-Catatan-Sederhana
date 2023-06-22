@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Note</string>
+    <string name="app_name">Catatna</string>
     <string name="add_button">Tambah Catatan</string>
     <string name="search_button">Cari Catatan</string>
     <string name="sort_actions">Urutkan Catatan</string>
